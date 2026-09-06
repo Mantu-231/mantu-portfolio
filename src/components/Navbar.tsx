@@ -26,9 +26,12 @@ export default function Navbar() {
           onClick={() => setOpen(false)}
           className="group flex shrink-0 items-center gap-2"
         >
-          <span className="flex h-9 w-9 items-center justify-center rounded-xl bg-cyan-400 text-sm font-bold text-black transition duration-300 group-hover:rotate-3 group-hover:bg-cyan-300">
-            M
-          </span>
+          <img
+            src="/mk-logo.png"
+            alt="Mantu Kumar logo"
+            className="h-9 w-9 object-contain"
+          />
+
 
           <span className="text-lg font-semibold tracking-tight text-white">
             Mantu Kumar<span className="text-cyan-400">.</span>
