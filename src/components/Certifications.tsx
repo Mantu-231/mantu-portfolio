@@ -18,13 +18,13 @@ const certifications = [
 
 export default function Certifications() {
   return (
-    <section className="border-t border-white/10 px-5 py-28">
+    <section id="certifications" className="border-t border-white/10 px-5 py-28">
       <div className="mx-auto max-w-6xl">
         <p className="text-sm uppercase tracking-[0.25em] text-cyan-400">
           Certifications
         </p>
 
-        <h2 className="mt-4 text-4xl font-bold tracking-tight sm:text-5xl">
+        <h2 className="mt-4 text-4xl font-bold tracking-tight text-white sm:text-5xl">
           Continuous learning.
         </h2>
 
@@ -38,7 +38,7 @@ export default function Certifications() {
                 0{index + 1}
               </span>
 
-              <h3 className="mt-8 text-lg font-semibold">
+              <h3 className="mt-8 text-lg font-semibold text-white">
                 {certificate.title}
               </h3>
 

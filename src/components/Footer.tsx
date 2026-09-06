@@ -23,7 +23,7 @@ export default function Footer() {
           </p>
 
           <p className="mt-1 text-xs text-gray-600">
-            Software Engineer · Full Stack · Backend · AI/ML
+            Software Engineer · Full Stack · Backend · AI/ML · Agentic AI
           </p>
         </div>
 

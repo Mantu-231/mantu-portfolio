@@ -59,7 +59,7 @@ export default function Contact() {
                   href={social.href}
                   target="_blank"
                   rel="noreferrer"
-                  className="flex items-center justify-between rounded-2xl border border-white/10 px-5 py-4 text-sm text-gray-400 transition hover:border-cyan-400/25 hover:bg-white/4 hover:text-white"
+                  className="group flex items-center justify-between rounded-2xl border border-white/10 px-5 py-4 text-sm text-gray-400 transition hover:border-cyan-400/25 hover:bg-white/4 hover:text-white"
                 >
                   <span>{social.label}</span>
                   <span className="text-gray-600 transition group-hover:text-cyan-400">

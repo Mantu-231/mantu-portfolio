@@ -1,12 +1,12 @@
 export default function Education() {
   return (
-    <section className="border-t border-white/10 px-5 py-28">
+    <section id="education" className="border-t border-white/10 px-5 py-28">
       <div className="mx-auto max-w-6xl">
         <p className="text-sm uppercase tracking-[0.25em] text-cyan-400">
           Education
         </p>
 
-        <h2 className="mt-4 text-4xl font-bold tracking-tight sm:text-5xl">
+        <h2 className="mt-4 text-4xl font-bold tracking-tight text-white sm:text-5xl">
           Academic foundation.
         </h2>
 
@@ -15,7 +15,7 @@ export default function Education() {
             <div>
               <p className="text-sm text-cyan-400">B.Tech in Computer Science Engineering</p>
 
-              <h3 className="mt-2 text-2xl font-semibold">
+              <h3 className="mt-2 text-2xl font-semibold text-white">
                 GITAM University
               </h3>
 

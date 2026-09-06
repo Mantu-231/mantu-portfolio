@@ -34,7 +34,7 @@ export default function Hero() {
 
           {/* Role */}
           <p className="animate-fade-up animate-delay-1 mb-5 text-sm font-medium uppercase tracking-[0.28em] text-gray-500">
-            Full Stack Developer · Backend · AI/ML · Agentic AI
+            Software Engineer · SDE · Analyst — Full Stack, Frontend to Backend · AI/ML &amp; Agentic AI
           </p>
 
           {/* Main Heading */}
@@ -50,15 +50,15 @@ export default function Hero() {
           <p className="animate-fade-up animate-delay-2 mt-8 max-w-3xl text-base leading-8 text-gray-400 sm:text-lg">
             I&apos;m{" "}
             <span className="font-medium text-white">Mantu Kumar</span>, a
-            Computer Science Engineering student at GITAM University building
-            full-stack applications, backend systems, APIs, and data-driven
-            software.
+            Computer Science Engineering student at GITAM University passionate
+            about building practical, reliable software across full-stack
+            development, financial technology, and data-driven systems.
           </p>
 
           <p className="animate-fade-up animate-delay-2 mt-4 max-w-3xl text-base leading-8 text-gray-500 sm:text-lg">
-            I&apos;m also exploring AI/ML and agentic systems to build
-            intelligent software that can automate workflows and solve
-            practical real-world problems.
+            I&apos;m now looking for my first opportunity as a Software Engineer or
+            Analyst, where I can contribute, learn from real-world challenges,
+            and grow while exploring AI/ML and intelligent systems.
           </p>
 
           {/* CTA */}
@@ -106,7 +106,7 @@ export default function Hero() {
         {/* Quick Stats */}
         <div className="animate-fade-up animate-delay-4 mt-20 grid max-w-3xl grid-cols-2 border-y border-white/10 sm:grid-cols-4">
           <Stat value="2027" label="Graduation" />
-          <Stat value="2" label="Featured Projects" />
+          <Stat value="4" label="Featured Projects" />
           <Stat value="Python" label="Primary Language" />
           <Stat value="DSA" label="Problem Solving" />
         </div>

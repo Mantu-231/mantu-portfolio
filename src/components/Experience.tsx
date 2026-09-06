@@ -6,12 +6,12 @@ const experience = [
     period: "Jun 2025 — Jul 2025",
     type: "Internship",
     description:
-      "Worked on a responsive personal expense tracker while gaining practical experience in frontend development, application logic, validation, and client-side data persistence.",
+      "Designed and built a responsive personal expense tracker end-to-end, taking ownership of the interface, application logic, and data persistence layer in a live product codebase.",
     contributions: [
-      "Built a responsive expense tracking interface using HTML, CSS, and JavaScript.",
-      "Implemented income and expense transaction management with real-time balance calculations.",
-      "Added input validation and structured application logic for reliable user interactions.",
-      "Used Local Storage to persist user data across browser sessions.",
+      "Designed and built a responsive expense-tracking interface from scratch using HTML, CSS, and JavaScript.",
+      "Engineered income and expense transaction logic with real-time balance calculations.",
+      "Implemented input validation and structured application logic to ensure reliable, error-free user interactions.",
+      "Architected client-side data persistence using Local Storage, enabling data continuity across browser sessions.",
     ],
     stack: ["HTML", "CSS", "JavaScript", "Local Storage"],
   },
