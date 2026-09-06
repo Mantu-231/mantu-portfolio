@@ -31,7 +31,7 @@ export default function Navbar() {
           </span>
 
           <span className="text-lg font-semibold tracking-tight text-white">
-            Mantu<span className="text-cyan-400">.</span>
+            Mantu Kumar<span className="text-cyan-400">.</span>
           </span>
         </a>
 

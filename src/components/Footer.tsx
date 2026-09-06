@@ -19,7 +19,7 @@ export default function Footer() {
       <div className="mx-auto flex max-w-6xl flex-col justify-between gap-5 sm:flex-row sm:items-center">
         <div>
           <p className="font-semibold text-white">
-            Mantu<span className="text-cyan-400">.</span>
+            Mantu Kumar<span className="text-cyan-400">.</span>
           </p>
 
           <p className="mt-1 text-xs text-gray-600">
