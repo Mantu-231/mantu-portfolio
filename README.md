@@ -1,85 +1,84 @@
 # Mantu Kumar — Portfolio
 
-> Software Developer · Full Stack · Backend · AI/ML · Agentic AI
+> Software Engineer · Analyst · Full Stack · Fintech · AI/ML
 
-Welcome to my personal portfolio repository.
+Source code for my personal portfolio website.
 
-I'm **Mantu Kumar**, a Computer Science Engineering student at **GITAM University**, interested in building practical software across full-stack development, backend engineering, data, and intelligent systems.
+I'm **Mantu Kumar**, a Computer Science Engineering student at **GITAM University** (Class of 2027), looking to start my career as a Software Engineer or Analyst — ideally at a fintech or product company where I can work on real, high-stakes systems.
 
 ## 🌐 Live Portfolio
 
 **[Visit my Portfolio](https://mantu-portfolio-eight.vercel.app)**
 
+## 🧰 Built With
+
+- Framework: `Next.js` (App Router)
+- Language: `TypeScript`
+- Styling: `Tailwind CSS`
+- Font: `Inter` (via next/font/google)
+- Deployment: `Vercel`
+
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/Mantu-231/mantu-portfolio.git
+cd mantu-portfolio
+npm install
+npm run dev
+```
+
+Open `http://localhost:3000` to view it locally.
+
 ## 🚀 Featured Projects
 
-### 01 — Finance Analytics System
+### 01 — FinOps Autopilot
+An agentic financial reconciliation platform that matches payments against settlements, classifies exceptions by severity, flags anomalies with an ML model, and routes them through an automated resolution agent.
 
+**Tech Stack:** FastAPI · PostgreSQL · SQLAlchemy · scikit-learn · React
+
+**Repository:** https://github.com/Mantu-231/FinOps-Autopilot
+
+### 02 — PayFlow — Payment Dashboard
+A payment operations dashboard for monitoring revenue, transactions, and customers — searching and filtering by status the way real fintech product dashboards do.
+
+**Tech Stack:** Next.js · React · TypeScript · Tailwind CSS
+
+**Repository:** https://github.com/Mantu-231/PayFlow
+
+### 03 — Finance Analytics System
 A Python-based finance analytics platform for managing transactions and turning financial data into useful analytics.
 
-**Tech Stack:**
-- Python
-- FastAPI
-- SQLite
-- Pandas
-- Streamlit
-- Pytest
+**Tech Stack:** Python · FastAPI · SQLite · Pandas · Streamlit · Pytest
 
-**Repository:**  
-https://github.com/Mantu-231/Finance-Analytics-System
+**Repository:** https://github.com/Mantu-231/Finance-Analytics-System
 
----
-
-### 02 — Complaint Portal System
-
+### 04 — Complaint Portal System
 A Java web application for registering, tracking, and managing complaints with authentication and administrator workflows.
 
-**Tech Stack:**
-- Java
-- JSP
-- Servlets
-- MySQL
-- Apache Tomcat
+**Tech Stack:** Java · JSP · Servlets · MySQL · Apache Tomcat
 
-**Repository:**  
-https://github.com/Mantu-231/ComplaintPortal
+**Repository:** https://github.com/Mantu-231/ComplaintPortal
 
 ## 🛠️ Technical Skills
 
-### Languages
-Python · Java · SQL · JavaScript · C
-
-### Backend & APIs
-FastAPI · REST APIs · Java Servlets · JSP · CRUD
-
-### Frontend
-React.js · HTML · CSS · JavaScript · Streamlit
-
-### Data & Databases
-MySQL · SQLite · Pandas · Data Analysis
-
-### Testing & Engineering
-Pytest · API Testing · OOP · DSA · DBMS
-
-### Tools
-Git · GitHub · VS Code · Apache Tomcat
+**Languages:** Python · Java · SQL · TypeScript · JavaScript · C
+**Backend & APIs:** FastAPI · REST APIs · Java Servlets · JSP · JWT/OAuth2 · SQLAlchemy
+**Frontend:** React · Next.js · Tailwind CSS · HTML · CSS
+**Data & Databases:** PostgreSQL · MySQL · SQLite · Pandas · scikit-learn
+**Testing & Engineering:** Pytest · API Testing · OOP · DSA · DBMS
+**Tools:** Git · GitHub · VS Code · Apache Tomcat
 
 ## 💼 Experience
 
-### Full Stack Development Intern
-**InlighnX Global Pvt. Ltd.**
+**Full Stack Development Intern** — InlighnX Global Pvt. Ltd. · Jun 2025 — Jul 2025
 
-**Jun 2025 — Jul 2025**
-
-Gained practical experience in frontend development, application logic, validation, responsive interfaces, and client-side data persistence.
+Designed and built a responsive personal expense tracker end-to-end, taking ownership of the interface, application logic, and data persistence layer in a live product codebase.
 
 ## 🎓 Education
 
-**B.Tech in Computer Science Engineering**  
-GITAM University  
-Visakhapatnam, Andhra Pradesh
-
-**Aug 2023 — Aug 2027**  
-Class of 2027
+**B.Tech in Computer Science Engineering**
+GITAM University, Visakhapatnam, Andhra Pradesh
+Aug 2023 — Aug 2027 · Class of 2027
 
 ## 📜 Certifications
 
@@ -89,35 +88,19 @@ Class of 2027
 
 ## 📊 Problem Solving
 
-I continuously practice Data Structures & Algorithms and improve my problem-solving skills.
+I continuously practice Data Structures & Algorithms on **[LeetCode](https://leetcode.com/u/GV2023006731/)**.
 
-**LeetCode:**  
-https://leetcode.com/u/GV2023006731/
-
-## 🔗 Connect With Me
-
-**GitHub:**  
-https://github.com/Mantu-231
-
-**LinkedIn:**  
-https://www.linkedin.com/in/mantu-kumar-28311a308
-
-**LeetCode:**  
-https://leetcode.com/u/GV2023006731/
-
-**Email:**  
-mantukumar787084@gmail.com
-
----
-
-### 📌 Currently Learning
+## 📌 Currently Learning
 
 - AI/ML
 - Agentic AI
-- Backend Engineering
-- Full Stack Development
-- Data & Intelligent Systems
+- Advanced distributed systems and scalability patterns
 
----
+## 🔗 Connect With Me
+
+- **GitHub:** https://github.com/Mantu-231
+- **LinkedIn:** https://www.linkedin.com/in/mantu-kumar-28311a308
+- **LeetCode:** https://leetcode.com/u/GV2023006731/
+- **Email:** mantukumar787084@gmail.com
 
 © 2026 Mantu Kumar
